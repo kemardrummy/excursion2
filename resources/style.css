@@ -1,0 +1,16 @@
+/* Selects all elements */
+* {
+    color: white;
+    background-color: black ;
+    text-align: center ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20;
+  }
+
+  h4 { color: green;
+
+  }
+
+  a {color: green;
+
+  }
